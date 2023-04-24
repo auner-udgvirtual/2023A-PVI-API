@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-g4#la!zs@1b@=hx@o7045nkkyw1@yijhua65^^r!gq3k*=@rq)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'intlqa-tools-dev.partners.test-godaddy.com', 'http://localhost:8080', 'aunerudgvirtual.pythonanywhere.com', 'https://a-ldsw-pvi.web.app' ]
+ALLOWED_HOSTS = ['localhost', 'intlqa-tools-dev.partners.test-godaddy.com', 'http://localhost:8080', 'aunerudgvirtual.pythonanywhere.com', 'a-ldsw-pvi.web.app' ]
 
 # Application definition
 
